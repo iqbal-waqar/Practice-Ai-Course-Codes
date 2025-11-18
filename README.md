@@ -1,4 +1,4 @@
-# 🚀 AI LAB Practices
+# 🚀 AI LAB Practice Codes
 
 ---------------------------------
 
